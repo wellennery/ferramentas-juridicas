@@ -5,7 +5,7 @@ Para apresentar esse projeto de forma profissional em seu portfólio — tanto e
 
 ---
 
-### 🧑‍⚖️ Scraping_TST.ipynb - Extração Automatizada de Jurisprudência do TST | Automated Jurisprudence Extraction from Brazil’s Superior Labor Court (TST)
+### Scraping_TST.ipynb - Extração Automatizada de Jurisprudência do TST | Automated Jurisprudence Extraction from Brazil’s Superior Labor Court (TST)
 
 **PT-BR**
 Este projeto tem como objetivo automatizar a coleta de jurisprudência do site oficial do Tribunal Superior do Trabalho (TST). Através da biblioteca Selenium, o script simula a navegação no portal, realiza buscas por termos específicos e extrai informações relevantes como número do processo, turma julgadora, relator, data de publicação, tipo de decisão, ementa e inteiro teor. O resultado é consolidado em um arquivo Excel para posterior análise jurídica ou estatística. Esta automação economiza tempo e garante maior confiabilidade na coleta de dados para pesquisas ou monitoramento jurisprudencial.
