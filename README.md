@@ -1,7 +1,8 @@
 # ferramentas-juridicas
-Ferramentas desenvolvidas para otimizar e/ou facilitar tarefas e análise de dados jurídicos
 
-Para apresentar esse projeto de forma profissional em seu portfólio — tanto em português quanto em inglês — o ideal é descrever brevemente seu propósito, a motivação por trás da automação e os resultados obtidos. Aqui vai uma sugestão bilíngue para a introdução do projeto:
+**PT-BR:** Ferramentas desenvolvidas para otimizar e/ou facilitar tarefas e análise de dados jurídicos
+
+**EN:** Tools developed to streamline and support legal data tasks and analysis.
 
 ---
 
